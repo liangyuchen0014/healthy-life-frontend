@@ -1,0 +1,11 @@
+# compiled output
+/node_modules
+
+/entry/build
+/entry/.preview
+/.idea
+/.hvigor
+local.properties
+package-lock.json
+# OS
+.DS_Store
